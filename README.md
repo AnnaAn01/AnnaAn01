@@ -9,8 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://annaan01.github.io/anna-portfolio#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://annaan01.github.io/anna-portfolio#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://annaan01.github.io/anna-portfolio)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AnnaSoftwareDev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AnnaSoftwareDev#gh-dark-mode-only)
