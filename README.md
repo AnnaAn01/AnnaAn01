@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://annaan01.github.io/anna-portfolio)
+[![website](./img/globe-light.svg)]()
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AnnaSoftwareDev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AnnaSoftwareDev#gh-dark-mode-only)
