@@ -1,7 +1,7 @@
 # Hi there, I'm Anna
 
 - 🌱 I’m currently learning everything code related 👩‍💻
-- 😻 I speak these languages 🇺🇸, 🇰🇷 , 🇷🇺
+- 😻 I speak these languages 🇺🇸, 🇰🇷
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love yoga and coffee.
 
