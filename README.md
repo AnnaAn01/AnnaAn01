@@ -1,7 +1,5 @@
 # Hi there, I'm Anna
 
-## I'm a language enthusiast, former interpreter turned frontend developer!!
-
 - 🌱 I’m currently learning everything code related 👩‍💻
 - 😻 I speak these languages 🇺🇸, 🇰🇷 , 🇷🇺
 - 🥅 2022 Goals: Learn more about web3
