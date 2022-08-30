@@ -1,4 +1,4 @@
-# Hi there, I'm Anna - aka [Anna Tech][youtube] 👋
+# Hi there, I'm Anna
 
 ## I'm a language enthusiast, former interpreter turned frontend developer!!
 
@@ -14,8 +14,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/AnnaSoftwareDev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AnnaSoftwareDev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCaZw_pKX01qoCEumrn6OuHw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCaZw_pKX01qoCEumrn6OuHw#gh-dark-mode-only)
 
 ### Languages and Tools:
 
