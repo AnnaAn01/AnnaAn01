@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning everything code related 👩‍💻
 - 😻 I speak these languages 🇺🇸, 🇰🇷
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love yoga and coffee.
+- 🥅 2022 Goals: Build more fun projects.
+
 
 ### Connect with me:
 
